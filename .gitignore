@@ -1,0 +1,21 @@
+# 📂 Foldere generate de RStudio
+.Rproj.user
+
+# 📄 Fișiere de sesiune R
+.RData
+.Rhistory
+.Ruserdata
+
+# 📄 Fișiere auxiliare, backup sau temporare
+*.log
+*.tmp
+*.bak
+*.swp
+
+# 🧪 Test folders (dacă folosești testthat)
+testthat/
+__tests__/
+
+# 💻 Fișiere de sistem
+.DS_Store
+Thumbs.db
