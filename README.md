@@ -109,5 +109,5 @@ The model offers solid support for content development decisions based on histor
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/Bojescu/netflix-logistic-analysis.git
 cd netflix-logistic-analysis
